@@ -2,6 +2,12 @@
 
 一个从零开始训练的诗句续写 LLM, 提供 Mamba 架构实现与 Tramsformer 架构实现两个版本。
 
+## Colab
+
+为没有相应运行环境的人提供。
+
+https://colab.research.google.com/drive/1TlLS74zXAvtMH__OEVE2_ixLDG0fXS7Q?usp=sharing
+
 ## 本地运行
 
 ```bash
